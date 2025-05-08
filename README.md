@@ -1,4 +1,4 @@
-# Graph Analytics Using R
+# Exploring Clustering Variance and Predicitve Analytics Using R
 This repository contains the code, workspace, and report for a clustering variance and predictive analytics project completed for the course **CSCI 6444: Big Data & Analytics** at The George Washington University.
 
 ---
